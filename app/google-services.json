@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "861066293494",
+    "firebase_url": "https://mango-7e192-default-rtdb.firebaseio.com",
+    "project_id": "mango-7e192",
+    "storage_bucket": "mango-7e192.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861066293494:android:27034ab565949a0e993cd7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNTNVELBVfg2jbH8oafhLQTYqKaSMJRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

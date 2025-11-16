@@ -5,21 +5,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ViewActivity">
+    tools:context=".SplashActivity">
 
     <TextView
-        android:id="@+id/saveText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="저장"
-        android:textSize="20sp"
-        android:layout_margin="10dp"
+        android:text="MONGO\nPLATE"
+        android:textSize="40dp"
+        android:textColor="#ff7f00"
+        android:textStyle="bold"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-    <WebView
-        android:layout_marginTop="50dp"
-        android:id="@+id/webView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
